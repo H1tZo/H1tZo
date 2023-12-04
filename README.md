@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Games,Android,Pc**
 
-- 📫 How to reach me **www.idhelpee@mail.ru**
+- 📫 How to reach me **amirjonm5@gmail.com**
 
 - ⚡ Fun fact **fun fack "I'm Hate School"**
 
