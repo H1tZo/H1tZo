@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **amirjonm5@gmail.com**
 
-- ⚡ Fun fact **fun fack "I'm Hate School"**
+- ⚡ Fun fact **"I'm Hate School"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
