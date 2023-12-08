@@ -1,4 +1,4 @@
-[![MasterHead](https://d1.awsstatic.com/events/aws-hosted-events/2020/APAC/Innovate%20-%20AIML/innovate-aiml-animated-bg.d14ec0889a3375b51bb2d033c585f998364489d1.gif)]()
+[![MasterHead](https://wallpaperxyz.com/wp-content/uploads/Gif-Animated-Wallpaper-Background-Full-HD-Free-Download-for-PC-Macbook-261121-Wallpaperxyz.com-38.gif)]()
 <h1 align="center">Hi 👋, I'm Mardonov Amirjon</h1>
 <h3 align="center">A passionate Python developer from Uzbekistan</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3d3b3c2azdvdnhiM2hmcnA5ZXZxaHFhMnh6eWh6ZmpxdHN4M2ZpYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
